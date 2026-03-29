@@ -12,7 +12,7 @@ This project uses an **XGBoost Classifier** trained on over 600,000 clinical rec
 * **Deployment:** Streamlit Community Cloud
 
 ## 📦 Installation & Local Run
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/heart-disease-app.git`
+1. Clone the repo: `git clone https://github.com/thenandansadiwala/heart-disease-app.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
